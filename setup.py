@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='adfmapping',
-    version='0.1.0',
+    version='0.1.2',
     author='Gaurav Lotekar',
     author_email='gauravnlotekar@gmail.com',
     url='https://github.com/gogi2811/adfmapping',

@@ -9,7 +9,7 @@ Both tech and non-tech audiences can use it with a lil bit of guidance.
 ### Usage
 -  Get Csv file from your Azure Application Insights or Log Analytics workspace
 
-![APPIN_QUERY_Example.png](APPIN_QUERY_Example.png)
+![APPIN_QUERY_Example.png](https://github.com/gogi2811/adfmapping/raw/main/APPIN_QUERY_Example.png)
 
 - Install the package 
     > pip install adfmapping
