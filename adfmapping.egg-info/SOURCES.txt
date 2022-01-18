@@ -1,0 +1,8 @@
+adfmapping.py
+setup.py
+adfmapping.egg-info/PKG-INFO
+adfmapping.egg-info/SOURCES.txt
+adfmapping.egg-info/dependency_links.txt
+adfmapping.egg-info/entry_points.txt
+adfmapping.egg-info/requires.txt
+adfmapping.egg-info/top_level.txt
