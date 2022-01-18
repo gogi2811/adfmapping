@@ -1,3 +1,5 @@
+LICENSE
+README.md
 adfmapping.py
 setup.py
 adfmapping.egg-info/PKG-INFO

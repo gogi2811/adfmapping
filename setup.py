@@ -3,6 +3,7 @@ from setuptools import setup
 setup(
     name='adfmapping',
     version='0.1.0',
+    author='Gaurav Lotekar',
     py_modules=['adfmapping'],
     install_requires=[
         'Click',
