@@ -2,10 +2,12 @@ Metadata-Version: 2.1
 Name: adfmapping
 Version: 0.1.0
 Summary: UNKNOWN
-Home-page: UNKNOWN
+Home-page: https://github.com/gogi2811/adfmapping
+Author: Gaurav Lotekar
+Author-email: gauravnlotekar@gmail.com
 License: UNKNOWN
+Keywords: Azure ADF mapping ADF mapping JSON json
 Platform: UNKNOWN
-License-File: LICENSE
 
 UNKNOWN
 

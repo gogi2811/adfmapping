@@ -1,6 +1,7 @@
 LICENSE
 README.md
 adfmapping.py
+setup.cfg
 setup.py
 adfmapping.egg-info/PKG-INFO
 adfmapping.egg-info/SOURCES.txt
